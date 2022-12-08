@@ -196,10 +196,16 @@ margin-top: 100px;
 }
 .leo{
   font-size: 57px;
+  /* margin-right: 35rem; */
+  
+}
+.aki{
+  margin-top: 5px;
 }
 .akprofile{
-  margin-left: 36rem;
-  /* margin-bottom: 10rem; */
+  margin-left: 36.5rem;
+  /* margin-bottom: 30rem; */
+  /* top: -15rem; */
   font-size: 57px;
 }
 
