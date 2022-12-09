@@ -145,6 +145,40 @@ h6 {
 #main {
   margin-left: 300px;
 }
+@media (min-width: 1980px) {
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+     position: relative;
+  }
+  #hero .hero-container {
+    margin-right: 19rem;
+}
+#hero h1 {
+  margin: 0 100px 10px 0;
+  font-size: 190px;
+  font-weight: 700;
+  line-height: 0px;
+  color: rgb(8, 8, 8);
+  padding-left: 260px;
+}
+  #hero  {
+    /* width: 150rem;  */
+    /* height: 100vh;
+   background: url("../img/new\ header.jpg") top center;
+   display: absolute;
+   padding-top: 37px;
+   margin-bottom: 50px;
+   max-height: fit-content;
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-left: 50px; 
+   background-position: center; */
+   
+ }
+
+}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -289,7 +323,7 @@ margin-top: 100px;
 #hero  {
    width: 100%; 
    height: 100vh;
-  background: url("../img/new\ header.jpg") top center;
+  background: url("/assets/img/WEBSITE\ HEADER.jpg") top center;
   display: absolute;
   padding-top: 37px;
   margin-bottom: 50px;
@@ -457,54 +491,6 @@ section {
   
 }
 
-/* .container {
-  display: flex;
-} */
-/* 
-.second {
-  display: flex;
-  align-items:flex-end;
-} */
-
-/* .mg {
-  align-items: left;
- float: right;
-   
-} */
-/* .all {
-  display: flex;
-} */
-
-/* /* .all img {
-  display: flex;
-  width: 500px;
-  height: 500px;
-} */
-
-/* .aboutleo {
-  width: 500px;
-  height: 500px;
-  */
-/* } */
-
-/* .seconddiv img{
-  width: 500px;
-  height: 500px;
- 
-} */
-
-/* .aboutleo,.seconddiv img {
-  display: flex;
-} */ */
-
-
-/*--------------------------------------------------------------
-# Facts
---------------------------------------------------------------*/
-
-/*--------------------------------------------------------------
-# Portfolio
---------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
